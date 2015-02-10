@@ -21,5 +21,5 @@ This Script Tests and Checks for:
 
 Read more: http://tutorial520.easycfm.com/#ixzz2ILMMJtaz
 
-But Can slways be expanded to check for more restrictions.
+But Can always be expanded to check for more restrictions.
 
