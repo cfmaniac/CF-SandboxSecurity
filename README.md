@@ -1,7 +1,6 @@
 CF-SandboxSecurity
 =======
-This is from my Easycfm.com Tutorial: Displaying Tag Restrictions on ColdFusion Server
-http://tutorial520.easycfm.com/
+
 
 This was a Scriptlet I Wrote some number of years ago, to assist in Checking for CFTag Restrictions on Shared
 Hosting Providers.
@@ -19,7 +18,8 @@ This Script Tests and Checks for:
       CFREGISTRY
 
 
-Read more: http://tutorial520.easycfm.com/#ixzz2ILMMJtaz
+The Functions can always be expanded to check for more restrictions.
 
-But Can always be expanded to check for more restrictions.
+Tested on ColdFusion 7-10
+Not for use on Railo or Lucee
 
